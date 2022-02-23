@@ -1,10 +1,5 @@
-import './style.css'
+import "./style.css";
 
-export const Card = ({children, className}) => {
-    return(
-        <div className={`Card ${className}`}>
-            {children}
-        </div>
-    )
-
-}
+export const Card = ({ children, className }) => {
+  return <div className={`Card ${className}`}>{children}</div>;
+};

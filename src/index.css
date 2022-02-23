@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;500&display=swap");
 
 * {
   margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   font-size: 15px;
   background-color: hsl(212, 45%, 89%);
   display: flex;
@@ -18,20 +18,18 @@ body {
   margin: 1.25rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
-.attribution { 
-  font-size: 14px; 
-  text-align: center; 
+.attribution {
+  font-size: 14px;
+  text-align: center;
 }
 
-.attribution a { 
-   color: hsl(228, 45%, 44%); 
-  }
-
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
