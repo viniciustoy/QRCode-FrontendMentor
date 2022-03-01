@@ -15,7 +15,6 @@ body {
   align-items: center;
   justify-content: center;
   height: calc(100vh - 1px);
-  margin: 1.25rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -26,7 +25,7 @@ code {
 }
 
 .attribution {
-  font-size: 14px;
+  font-size: 12px;
   text-align: center;
 }
 
